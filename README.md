@@ -69,13 +69,13 @@ The file must be named by using the flag --output=<fileName.txt>, in which --out
 student@ubuntu:~/ascii-art$ go build
 student@ubuntu:~/ascii-art$ ./ascii-art "hello" standard --output=banner.txt
 student@ubuntu:~/ascii-art$ cat banner.txt
- _              _   _          
+_              _   _          
 | |            | | | |         
 | |__     ___  | | | |   ___   
 |  _ \   / _ \ | | | |  / _ \  
 | | | | |  __/ | | | | | (_) | 
 |_| |_|  \___| |_| |_|  \___/  
-                               
+
                                
 # Ascii-Art Justify
 You must follow the same instructions as in the first subject but the representation should be formatted using a flag --align=<type>, in which type can be :
